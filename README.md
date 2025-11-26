@@ -1,5 +1,8 @@
 # ZMK Firmware for Dao56 keyboard
 
+![DAO56-0](img/dao56-0.png)
+![DAO56-1](img/dao56-1.png)
+
 ## Current keymap
 ### Layer 0
 ![layer-0](img/layer-0.png)
